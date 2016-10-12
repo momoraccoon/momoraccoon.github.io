@@ -64,7 +64,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="grid_5">
-					<form id="contact-form">
+					<form id="contact-form" action="//formspree.io/main@tattsdubai.com">
 						<div class="contact-form-loader"></div>
 							<header>
 								<h2><span>Contact Form</span></h2>
@@ -75,6 +75,7 @@
 										<input type="text" name="name" placeholder="" value="" data-constraints="@Required @JustLetters" />
 											<span class="empty-message">*This field is required.</span>
 											<span class="error-message">*This is not a valid name.</span>
+										<input type="text" name="_gotcha" style="display:none" />
 									</label>
 									<label class="email">
 										<span class="text">Your E-mail:</span>
@@ -146,7 +147,6 @@
 			</div>
 		</div>
 	</div>
-	<div class="footer_bottom"><a href="http://www.templatemonster.com/" rel="nofollow"><img src="images/footer-logo.png" alt="logo"></a></div>
 </footer>
 <script type="text/javascript">
 	google_api_map_init();

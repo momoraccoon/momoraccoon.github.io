@@ -1,6 +1,5 @@
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
 @import url(//fonts.googleapis.com/css?family=Open+Sans:700,400,300);
-@import url(//fonts.googleapis.com/css?family=Marvel:400,700);
 /* =======================================================
 					variables
 ======================================================== */
@@ -68,7 +67,7 @@ h5 a:hover {
 }
 #header h1 span {
   display: block;
-  font: 20px/20px 'Marvel', sans-serif;
+  font: 20px/20px 'Open Sans', sans-serif;
 }
 #header nav {
   float: right;
@@ -105,7 +104,7 @@ h5 a:hover {
   color: #666666;
   font-size: 20px;
   margin-left: 29px;
-  font-family: 'Marvel', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 30px;
   position: relative;
 }
@@ -233,7 +232,7 @@ h5 a:hover {
 h2,
 h3,
 h4 {
-  font-family: 'Marvel', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #000000;
 }
 h2 {
@@ -256,14 +255,14 @@ h2 span:before {
 }
 h3 {
   font-size: 50px;
-  font-family: 'Marvel', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
   line-height: 50px;
 }
 h4 {
   font-size: 36px;
   line-height: 36px;
-  font-family: 'Marvel', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -275,7 +274,7 @@ h4 a:hover {
 h5 {
   font-size: 27px;
   line-height: 27px;
-  font-family: 'Marvel', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
   margin-bottom: 20px;
   color: #000000;
@@ -331,17 +330,17 @@ p {
     display: none;
   }
   h3 {
-    font: 45px/45px 'Marvel', sans-serif;
+    font: 45px/45px 'Open Sans', sans-serif;
     text-align: center;
   }
   h4 {
-    font: 30px/30px 'Marvel', sans-serif;
+    font: 30px/30px 'Open Sans', sans-serif;
     text-align: center;
     margin-top: 20px;s
     margin-bottom: 20px;
   }
   h5 {
-    font: 20px/20px 'Marvel', sans-serif;
+    font: 20px/20px 'Open Sans', sans-serif;
     text-align: center;
     margin-bottom: 20px;
     color: #000000;
@@ -357,17 +356,17 @@ p {
     display: none;
   }
   h3 {
-    font: 45px/45px 'Marvel', sans-serif;
+    font: 45px/45px 'Open Sans', sans-serif;
     text-align: center;
   }
   h4 {
-    font: 25px/25px 'Marvel', sans-serif;
+    font: 25px/25px 'Open Sans', sans-serif;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
   }
   h5 {
-    font: 20px/20px 'Marvel', sans-serif;
+    font: 20px/20px 'Open Sans', sans-serif;
     text-align: center;
     margin-bottom: 20px;
     color: #000000;
@@ -386,17 +385,17 @@ p {
     display: none;
   }
   h3 {
-    font: 35px/35px 'Marvel', sans-serif;
+    font: 35px/35px 'Open Sans', sans-serif;
     text-align: center;
   }
   h4 {
-    font: 20px/20px 'Marvel', sans-serif;
+    font: 20px/20px 'Open Sans', sans-serif;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
   }
   h5 {
-    font: 16px/16px 'Marvel', sans-serif;
+    font: 16px/16px 'Open Sans', sans-serif;
     text-align: center;
     margin-bottom: 20px;
     color: #000000;
@@ -456,7 +455,7 @@ p {
 }
 .index .block-4 .owl-text {
   font-size: 36px;
-  font-family: 'Marvel', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #312f2f;
   text-align: center;
   margin-top: 40px;
