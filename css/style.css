@@ -80,6 +80,7 @@ h5 a:hover {
   #header nav {
     float: none;
     display: inline-block;
+    padding-left: 0px;
   }
   #header nav {
     display: block;
