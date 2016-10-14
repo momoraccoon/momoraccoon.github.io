@@ -424,7 +424,7 @@ p {
   width: 278px;
 }
 .index .block-3 {
-  padding: 123px 0 50px;
+  padding: 70px 0 50px;
   background: url(../images/index_img_par.jpg);
   background-attachment: fixed;
   background-position: center 0%;
@@ -448,7 +448,7 @@ p {
   padding: 50px 0;
 }
 .index .block-4 {
-  padding: 120px 0 130px;
+  padding: 70px 0 130px;
   border-bottom: 1px solid #000;
 }
 .index .block-4 h2 {
@@ -491,7 +491,7 @@ p {
   }
 }
 .index-1 .block-1 {
-  padding: 120px 0 125px;
+  padding: 70px 0 290px;
 }
 .index-1 .block-1 h2 {
   margin-bottom: 60px;
@@ -591,7 +591,7 @@ p {
   width: 100% !important;
 }
 .index-3 .block-1 {
-  padding: 120px 0 75px;
+  padding: 70px 0 75px;
 }
 .index-3 .block-1 h2 {
   text-align: left;
@@ -661,8 +661,8 @@ p {
   padding: 70px 0;
 }
 .index-4 .block-2 h2 {
-  font-size: 60px;
-  text-align: left;
+  font-size: 40px;
+  text-align: center;
 }
 .index-4 .block-2 .address {
   margin-top: 40px;
@@ -675,7 +675,7 @@ p {
 }
 @media only screen and (max-width: 767px) {
   .index-4 h2 {
-    margin-top: 30px;
+    margin-top: 10px;
   }
     
 }
