@@ -468,6 +468,7 @@
 	.camera_caption h3 {
 		font-size: 40px;
 		line-height: 45px;
+		margin-bottom: -45px;
 	}
 	.camera_caption p { font-size: 25px; }
 	.camera_wrap .camera_pag .camera_pag_ul { top: 10px; }
@@ -502,7 +503,7 @@
 	.camera_caption h3 {
 		font-size: 30px;
 		line-height: 30px;
-		margin-bottom: 10px;
+		margin-bottom: -90px;
 	}
 	.camera_caption p { font-size: 20px;}
 	.camera_caption .bd-ra {
