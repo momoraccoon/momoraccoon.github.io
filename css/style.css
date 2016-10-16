@@ -683,7 +683,7 @@ p {
 										FOOTER styles
 =========================================================*/
 #footer {
-  background: #239f6d;
+  background: #242222;
   padding: 5px 0 0;
   color: #000000;
 }
@@ -745,7 +745,7 @@ p {
 ========================================================*/
 #toTop {
   display: none;
-  background: #239f6d;
+  background: #242222;
   text-decoration: none;
   position: fixed;
   bottom: 80px;
