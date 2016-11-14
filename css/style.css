@@ -54,16 +54,16 @@ h5 a:hover {
 =========================================================*/
 #header {
   padding: 20px 0;
-  background: #242222;
+  background: #ffffff;
 }
 #header h1 {
   float: left;
   padding-left: 40px;
-  color: #ffffff;
+  color: #212121;
 }
 #header h1 a {
   font: 700 30px/30px 'Open Sans', sans-serif;
-  color: #ffffff;
+  color: #212121;
 }
 #header h1 span {
   display: block;
@@ -205,7 +205,7 @@ h5 a:hover {
 /* Stuck menu styles
 ========================================================*/
 .isStuck {
-  background: #242222;
+  background: #ffffff;
   z-index: 9;
   padding: 0;
   border-bottom: 1px solid #242222;
