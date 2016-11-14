@@ -207,8 +207,8 @@ h5 a:hover {
 .isStuck {
   background: #ffffff;
   z-index: 9;
-  padding: 0;
-  border-bottom: 1px solid #242222;
+  padding: 15px;
+  border-bottom: 1px solid #212121;
 }
 .isStuck nav {
   margin-top: 17px !important;
