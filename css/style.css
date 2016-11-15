@@ -110,16 +110,16 @@ h5 a:hover {
   padding: 3px 12px;
 }
 .sf-menu > li > a:hover {
-  text-decoration: none;
-  border-bottom: 3px #212121 solid;
+  color: #212121;
+  border-bottom: 1px #212121 solid;
 }
 
 .sf-menu > li:first-child {
   padding-right: 0;
 }
 .sf-menu > li.current > a {
-  color: #239f6d;
-  text-decoration: underline;	
+  color: #212121;
+  border-bottom: 1px #212121 solid;
 }
 
 @media only screen and (max-width: 979px) {
