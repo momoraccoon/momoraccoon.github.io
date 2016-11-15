@@ -97,7 +97,7 @@ h5 a:hover {
   width: 100%;
   text-align: center;
   line-height: 20px;
-  margin-top: 32px;
+  margin-top: 70px;
 }
 .sf-menu > li {
   display: inline-block;
@@ -107,7 +107,7 @@ h5 a:hover {
 }
 .sf-menu > li > a {
   color: #666666;
-  font-size: 20px;
+  font-size: 15px;
   font-family: 'Open Sans', sans-serif;
   margin-bottom: 30px;
   position: relative;
