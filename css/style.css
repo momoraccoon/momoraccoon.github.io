@@ -220,7 +220,7 @@ h5 a:hover {
   margin-top: 17px !important;
 }
 .isStuck .sf-menu {
-  margin-top: 3px;
+  margin-top: 40px;
 }
 .isStuck .sf-menu > li > a:hover:after {
   bottom: -23px;
