@@ -93,7 +93,6 @@ h5 a:hover {
   width: 100%;
   text-align: center;
   line-height: 20px;
-  margin-top: auto;
   margin-top: 32px;
 }
 .sf-menu > li {
@@ -109,9 +108,9 @@ h5 a:hover {
   font-family: 'Open Sans', sans-serif;
   margin-bottom: 30px;
   position: relative;
+  padding: 3px 12px;
 }
 .sf-menu > li > a:hover {
-  color: #ffffff;
   text-decoration: underline;
 }
 
