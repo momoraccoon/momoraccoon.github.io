@@ -117,7 +117,7 @@ h5 a:hover {
   padding-right: 0;
 }
 .sf-menu > li.current > a {
-  color: #ffffff;
+  color: #239f6d;
 }
 
 @media only screen and (max-width: 979px) {
