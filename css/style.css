@@ -111,6 +111,7 @@ h5 a:hover {
 }
 .sf-menu > li > a:hover {
   color: #ffffff;
+	font-weight: 300;
 }
 
 .sf-menu > li:first-child {
@@ -118,6 +119,7 @@ h5 a:hover {
 }
 .sf-menu > li.current > a {
   color: #239f6d;
+	
 }
 
 @media only screen and (max-width: 979px) {
